@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+אלפי דירות להשכרה, למכירה ולשבתות בבני ברק במקום אחד. פלטפורמה ייחודית לקהילה החרדית עם מאגר נכסים מקיף ללא תיווך. חפשו, השוו ומצאו את הבית שלכם עוד היום!
+
+### תכונות הפלטפורמה
+https://example.com/features
+גלו את תכונות הפלטפורמה המתקדמת של בית נאמן: סינון חכם, מאגר עדכני של דירות להשכרה בבני ברק ללא תיווך, והתאמה מלאה לצרכי הקהילה החרדית. חיפוש נכס מעולם לא היה פשוט יותר!
+
+### אודות
+https://example.com/about
+בית נאמן נולד מתוך הצורך האמיתי של תושבי בני ברק למצוא דירות למכירה ולשכירות ללא תיווך. למדו על החזון שלנו, הערכים שמנחים אותנו והדרך שבה אנחנו משרתים את הקהילה החרדית מדי יום.
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלה על דירות לשבתות בבני ברק, נכס למכירה או השכרה? צוות בית נאמן כאן בשבילכם. צרו קשר עכשיו וקבלו מענה מהיר ומקצועי שיקרב אתכם לבית הבא שלכם.
+
+### Products
+https://example.com/products
+המוצרים שלנו - בית נאמן
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - בית נאמן
+
+### Category
+https://example.com/category/:slug
+מוצרים - בית נאמן
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
